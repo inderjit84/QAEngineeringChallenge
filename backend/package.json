@@ -13,7 +13,7 @@
   "author": "BellSant",
   "dependencies": {
     "@netlify/functions": "^2.0.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "serverless-http": "^3.2.0",
     "typescript": "^5.2.2"
   },
